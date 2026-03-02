@@ -1,12 +1,12 @@
 {
-  "name": "dinero",
+  "name": "dinero",  YOVANI GUILLERMO RAMOS RODRIGUEZ 
   "version": "1.0.1",
   "description": "API client for Dinero Regnskab",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "",package.json
   "license": "MIT",
   "dependencies": {
     "es6-promise": "^2.0.1",
